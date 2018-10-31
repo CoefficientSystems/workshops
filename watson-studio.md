@@ -31,7 +31,7 @@
 -  Add a new notebook. Go to the `Assets` tab at the top of the Project page. Scroll down to `Notebooks` and click +. Choose one of these options by clicking on the tabs:
    - **Blank**: Create a new blank notebook
    - **From File**: Choose a notebook file from your computer
-   - **From URL**: Choose new notebook `From URL`. Give your notebook a name and copy the URL - for instance `https://github.com/pydatabristol/workshops/blob/master/workshop_2018_09_20_keras/PyData%20Bristol%20-%20Intro%20to%20Deep%20Learning%20with%20Keras%20-%20September%202018%20-%20Solution%20code.ipynb`
+   - **From URL**: Choose new notebook `From URL`. Give your notebook a name and copy the URL - for instance `https://github.com/CoefficientSystems/workshops/blob/master/IBM%20Code%20London%20Meetup%20-%20Intro%20to%20Deep%20Learning%20with%20Keras%20-%20October%202018%20-%20Starter%20code.ipynb`
  
 - Select a runtime and click `Create Notebook`. 
  
